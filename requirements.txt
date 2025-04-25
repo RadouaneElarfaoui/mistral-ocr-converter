@@ -1,0 +1,9 @@
+mistralai>=1.7.0
+gradio>=3.50.0
+pathlib
+typing
+zipfile
+base64
+shutil
+tempfile
+regex 
