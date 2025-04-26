@@ -2,6 +2,10 @@
 
 Une application permettant de convertir des documents PDF en texte structuré à l'aide de l'API OCR de Mistral AI.
 
+![Capture d'écran 2025-04-26 123152](https://github.com/user-attachments/assets/8a8b0179-eeb9-49f0-9aba-44ec43dca484)
+
+![Capture d'écran 2025-04-26 123237](https://github.com/user-attachments/assets/66f6a5cb-1e98-4126-9f24-4f4e594fb177)
+
 ## Fonctionnalités
 
 - Extraction de texte et d'images à partir de documents PDF
@@ -10,6 +14,7 @@ Une application permettant de convertir des documents PDF en texte structuré à
   - **HTML** : Document HTML pour visualisation dans un navigateur
   - **ZIP** : Fichier ZIP contenant le markdown sans base64 et les images dans un dossier séparé
 - Interface utilisateur conviviale propulsée par Gradio
+
 
 ## Utilisation avec Google Colab
 
