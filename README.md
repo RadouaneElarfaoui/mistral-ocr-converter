@@ -11,6 +11,15 @@ Une application permettant de convertir des documents PDF en texte structuré à
   - **ZIP** : Fichier ZIP contenant le markdown sans base64 et les images dans un dossier séparé
 - Interface utilisateur conviviale propulsée par Gradio
 
+## Utilisation avec Google Colab
+
+Vous pouvez exécuter ce projet directement sur Google Colab sans avoir besoin de configurer un environnement local. Cliquez sur le bouton ci-dessous pour démarrer :
+
+<a href="https://colab.research.google.com/github/RadouaneElarfaoui/mistral-ocr-converter/blob/master/mistral_ocr_solution.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 ## Installation
 
 1. Clonez ce dépôt :
